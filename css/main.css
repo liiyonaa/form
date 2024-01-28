@@ -1,0 +1,151 @@
+*{
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+    list-style: none;
+}
+body{
+    background-color: #BDE5FF;;
+
+}
+div.wrapper>div{
+    display: inline-block;
+    vertical-align: top;
+    width: 49.5%;
+    text-align: center;
+}
+input{
+    all: unset;
+    width: 300px;
+    height: 40px;
+    font-size: 16px;
+    margin: 8px 5px;
+    padding: 5px;
+    background-color: #ffffffae;
+    border-radius: 8px;
+    text-align: center;
+    color: #4a2ea1;
+}
+input.date{
+    width: 61px;
+}
+
+div.wrapper{
+    text-align: center;
+    padding: 20px;
+}
+button{
+    all: unset;
+    background-color: rgb(76, 76, 170);
+    padding: 10px 15px;
+    border-radius: 8px;
+    color: whitesmoke;
+    cursor: pointer;
+    font-size: 18px;
+    margin-top: 10px;
+}
+lable{
+    font-size: 18px;
+    color: #4a2ea1;
+}
+h2{
+    font-size: 20px;
+    color: #4a2ea1;
+}
+h1{
+    font-size: 20px;
+    height: 30px;
+    font-weight: 200;
+    line-height: 30px;
+    display: inline-block;
+    width: fit-content;
+    margin-top: 8px;
+    border-radius: 8px;
+    
+}
+h1.birthday{
+    display: inline-block;
+    height: 37px;
+    vertical-align: top;
+
+}
+
+
+
+/*body{
+    background-color: #BDE5FF;
+}
+div.form{
+    display: flex;
+    justify-content: space-evenly;
+}
+div.form>div.form1{
+    width: 700px;
+    height: 800px;
+    background-image: radial-gradient(circle, #bde5ff, #b0d8ff, #acc9fd, #afb8f8, #b8a6ee);
+    margin: 30px;
+    border-radius: 15px;
+    text-align: center;
+    
+    
+}
+
+div.form>div.form1>div>input{
+    width: 200px;
+    height: 30px;
+    border-radius: 8px;
+    border: none;
+    outline: none;
+    background-color: #ffffffae;
+    text-align: center;
+    margin: 50px;
+    color: #4a2ea1;
+
+}
+div.form>div.form1>div{
+    width: 100%;
+    height: 50px;
+    text-align: center;
+    padding-top: 25px;
+
+}
+div.form>div.form1>div>select{
+    width: 200px;
+    height: 30px;
+    border-radius:5px;
+    border: none;
+    outline: none;
+    background-color: #ffffffae;
+    color: #4a2ea1;
+
+}
+div.form>div.form1>button{
+    
+    width: 100px;
+    height: 30px;
+    border-radius:5px;
+    border: none;
+    background-color: #ffffffae;
+    color: #4a2ea1;
+}
+div.form>div.form2{
+    width: 600px;
+    height: 500px;
+    background-image: radial-gradient(circle, #bde5ff, #b0d8ff, #acc9fd, #afb8f8, #b8a6ee);
+    margin: 50px;
+    border-radius: 15px;
+    text-align: center;
+
+    
+    
+}
+div.form>div.form2>h1{
+    width: 100%;
+    height: 50px;
+    background-color: aqua;
+}
+div.form>div.form2>h2{
+    width: 100%;
+    height: 50px;
+    background-color: rgb(229, 255, 0);
+}*/
